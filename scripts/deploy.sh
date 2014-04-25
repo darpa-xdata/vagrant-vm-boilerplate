@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 scriptdir=/vagrant/scripts
 
-echo "test for" > /echo.txt
+echo "test for" > /echo.txt #rush reference
 sudo apt-get update
 
 # Install a Java runtime enviornment
