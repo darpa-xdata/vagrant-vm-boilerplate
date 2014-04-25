@@ -1,4 +1,4 @@
-This project is an example of how to create a collaborative vagrant development and deployment environment (continuous integration enabled) for XDATA. Follow these instructions. Additional information about deploying to the XDATA cloud is available on the internal XDATA wiki under the development section.
+This project is an example of how to create a collaborative vagrant development.
 
 
 Install and configure Vagrant<br>
