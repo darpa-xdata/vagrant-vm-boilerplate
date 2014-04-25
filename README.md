@@ -1,4 +1,4 @@
-This project is an example of how to create a collaborative vagrant development.
+This project is an example of how to create a collaborative vagrant development environment.
 
 
 Install and configure Vagrant<br>
